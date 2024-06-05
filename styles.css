@@ -1,0 +1,41 @@
+body {
+    background-color: #f0f0f0;
+}
+/* .warehouse-map{
+    border: 1px solid #000;
+    margin-top: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+} */
+.btn-group-vertical .btn {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+.vertical-text-container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.vertical-text {
+    writing-mode: vertical-rl;
+    text-align: center;
+    transform: rotate(180deg);
+    font-size: 1.25rem;
+    /* font-weight: bold; */
+}
+
+.col-nogap{
+    padding-left: 0;
+    padding-right: 0;
+
+}
+
+.box {
+    border: 1px solid;
+    padding: 10px;
+    text-align: center;
+}
+
+.small-box {
+    width: 60px;  /* Adjust the width as needed */
+}
