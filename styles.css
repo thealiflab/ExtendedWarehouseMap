@@ -39,3 +39,8 @@ body {
 .small-box {
     width: 60px;  /* Adjust the width as needed */
 }
+
+.list-group-item{
+    background-color: #f0f0f0;
+    border-radius: 0px;
+}
