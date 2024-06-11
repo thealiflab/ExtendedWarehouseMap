@@ -44,3 +44,7 @@ body {
     background-color: #f0f0f0;
     border-radius: 0px;
 }
+
+#searchInput{
+    width: 1000px !important;
+}
